@@ -3,4 +3,4 @@ A simple predictor for cancer malignancy in breast tissue samples meant to be us
 
 Deployment Link: [Click Here to view the website](https://flymetothesun-jirehs-breast-cancer-predictor-appmain-wbz36v.streamlit.app)
 
-Reference: [Alejandro AO](https://github.com/alejandro-ao)
+Thank you to [Alejandro AO](https://github.com/alejandro-ao).
